@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "modbus.h": "c",
+        "time.h": "c",
+        "string.h": "c"
+    }
+}
